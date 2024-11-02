@@ -48,6 +48,26 @@ This is a Python Tkinter application for tracking focus sessions. The applicatio
    The session data is saved in:
    - A JSON file at the specified location.
    - The MongoDB collection specified in the code (`FocusTrackerDB` > `sessions`).
+  
+## JSON Data Format
+
+Each session is stored in the JSON file in the following format:
+```json
+[
+    {
+        _id:
+        "Day": "Monday",
+        "Start Time": "23-Oct-24",
+        "Start DateTime": "13:45:32",
+        "Lap #1": "13:50:10",
+        "Lap #2": "13:55:20",
+        "End Time": "14:00:45"
+    }
+]
+```
+
+![image](https://github.com/user-attachments/assets/ef8c0353-de89-40f9-a455-89a48707da0b)
+
 
 ## Screenshots
 
