@@ -15,6 +15,8 @@ This is a Python Tkinter application for tracking focus sessions. The applicatio
 - Install the following libraries:
   ```bash
   pip install pymongo
+  pip install pandas
+  pip install tkinter
   ```
 
 ## Setup
