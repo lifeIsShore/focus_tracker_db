@@ -51,17 +51,26 @@ This is a Python Tkinter application for tracking focus sessions. The applicatio
 
 ## Screenshots
 
-1. **Main Screen**: Shows the initial screen with a "Start Focusing" button.
-   - **Screenshot Tip**: Capture the application window showing only the "Start Focusing" button.
+1. **Main Screen**: 
+   ![image](https://github.com/user-attachments/assets/ce50d5c3-9f70-4481-933c-e462d7d1486c)
 
-2. **Session in Progress**: Shows the screen after starting a session, displaying the start time and the "Lap" and "Terminate the Session" buttons.
-   - **Screenshot Tip**: Capture the screen with the session in progress, showing the start time and available buttons.
 
-3. **Lap Recorded**: Shows a lap recorded in the session, updating the status message with lap information.
-   - **Screenshot Tip**: Capture the screen after recording at least one lap.
+2. **Session in Progress**: 
+   ![image](https://github.com/user-attachments/assets/29837ebf-2c34-4898-87ae-253c3dda638c)
 
-4. **Session Terminated**: Shows the final state after clicking "Terminate the Session," with a confirmation that data was saved to MongoDB.
-   - **Screenshot Tip**: Capture the screen right after terminating the session to confirm that data is saved successfully.
+
+3. **Lap Recorded**: 
+   ![image](https://github.com/user-attachments/assets/b95e609f-1c2b-4a2a-9040-c6578a53bf1f)
+
+
+4. **MongoDB**:
+  ![image](https://github.com/user-attachments/assets/828c74eb-4cd5-49c8-a50a-6e692c3db1e2)
+
+
+5. **MongoDB Records**:
+  ![image](https://github.com/user-attachments/assets/fb3b027d-b809-4428-9c7c-a7e0b65253ad)
+
+
 
 ## Code Structure
 
