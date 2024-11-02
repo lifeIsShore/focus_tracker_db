@@ -52,15 +52,15 @@ This is a Python Tkinter application for tracking focus sessions. The applicatio
 ## Screenshots
 
 1. **Main Screen**: 
-   ![image](https://github.com/user-attachments/assets/ce50d5c3-9f70-4481-933c-e462d7d1486c)
+     ![image](https://github.com/user-attachments/assets/ce50d5c3-9f70-4481-933c-e462d7d1486c)
 
 
 2. **Session in Progress**: 
-   ![image](https://github.com/user-attachments/assets/29837ebf-2c34-4898-87ae-253c3dda638c)
+     ![image](https://github.com/user-attachments/assets/29837ebf-2c34-4898-87ae-253c3dda638c)
 
 
 3. **Lap Recorded**: 
-   ![image](https://github.com/user-attachments/assets/b95e609f-1c2b-4a2a-9040-c6578a53bf1f)
+     ![image](https://github.com/user-attachments/assets/b95e609f-1c2b-4a2a-9040-c6578a53bf1f)
 
 
 4. **MongoDB**:
